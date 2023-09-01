@@ -3,9 +3,9 @@
 
   ## Table of Contents
   * [Description](#description)
-  * [Installation](#installation)
   * [Useage](#useage)
   * [License](#license)
+  * [Demo](#demo)
   
   ## Description
   This repository contains the back end sequalize code for an eCommerce website. It includes routes and CRUD operations for the catagories of product catagories, their products, and tags.
